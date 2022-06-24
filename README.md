@@ -1,4 +1,4 @@
-Hi 👋 My name is Noemi Pintaldi
+Hello World! My name is Noemi Pintaldi
 ===============================
 
 Jr. Full Stack Web Developer

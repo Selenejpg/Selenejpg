@@ -22,7 +22,7 @@ Hello World! I'm Noemi Pintaldi, a Software Engineer. Ever since i was a little 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://learn.microsoft.com/it-it/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" width="36" height="36" alt="C#" /></a>
 <a href="https://learn.microsoft.com/it-it/dotnet/" target="_blank" rel="noreferrer"><img src="https://learn.microsoft.com/it-it/media/logos/logo_net.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/713/310/png-transparent-net-mvc-logo-asp-net-mvc-logo-net-framework-model-view-controller-framework-text-logo-microsoft-azure.png" width="50" height="36" alt="ASP.NET" /></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"><img src="https://cdn-images-1.medium.com/max/637/1*oPEDLkxFxRbrzSBvDSt72g.png" width="50" height="36" alt="ASP.NET" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="36" height="36" alt="Python" /></a>
 </p>
 

@@ -1,10 +1,10 @@
 Hello World! My name is Noemi Pintaldi
 ===============================
 
-Jr. Full Stack Web Developer
+Software Engineer - Analyst
 ----------------------------
 
-Hello World! I'm Noemi Pintaldi, a Jr. Full Stack Web Developer. Since i was a little girl, technology has always been one of my passions. But the passion for coding started by chance. When i wrote my first "Hello World", I just knew that that would have been my job. In that exact moment i decided to drop my previous job and become a programmer. I changed my life and i started to live a new adventure in the amazing world of coding. I can't wait to study new coding techniques and to learn as much as possible, learning new coding languages and frameworks!
+Hello World! I'm Noemi Pintaldi, a Software Engineer. Ever since i was a little girl, technology has always been one of my passions. But the passion for coding started by chance. When i wrote my first "Hello World", I just knew that that would have been my job. In that exact moment i decided to drop my previous job and become a programmer. I changed my life and i started to live a new adventure in the amazing world of coding. I can't wait to study new coding techniques and to learn as much as possible, learning new coding languages and frameworks!
 
 * 🌍  I'm based in Catania, Italy
 * ✉️  You can contact me at [noemipintaldi@gmail.com](mailto:noemipintaldi@gmail.com)
@@ -13,18 +13,16 @@ Hello World! I'm Noemi Pintaldi, a Jr. Full Stack Web Developer. Since i was a l
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://learn.microsoft.com/it-it/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-eduyx&psig=AOvVaw2gbE_TFf4IFD0Xedyu4Vdm&ust=1695674319536000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDrzZ-NxIEDFQAAAAAdAAAAABAE" width="36" height="36" alt="C#" /></a>
+<a href="https://learn.microsoft.com/it-it/dotnet/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flearn.microsoft.com%2Fit-it%2Fdotnet%2F&psig=AOvVaw34dpmmkKtycRdFpGoXhQH8&ust=1695674378586000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPiE17uNxIEDFQAAAAAdAAAAABAE" width="36" height="36" alt=".NET" /></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.macformazione.com%2Fcorso-aspnet%2F&psig=AOvVaw0oUnTTq0ECVvp4kxz1-VAu&ust=1695674425261000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJDC-9GNxIEDFQAAAAAdAAAAABAE" width="36" height="36" alt="ASP.NET" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikiversity.org%2Fwiki%2FPython&psig=AOvVaw1-DWe8GaMF1RfBakerusuA&ust=1695674475698000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJj5geqNxIEDFQAAAAAdAAAAABAJ" width="36" height="36" alt="Python" /></a>
 </p>
 
 

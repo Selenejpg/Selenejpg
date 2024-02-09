@@ -26,13 +26,13 @@ Hello World! I'm Noemi Pintaldi, a Software Engineer. Ever since i was a little 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="36" height="36" alt="Python" /></a>
 </p>
 
-### Most used languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Selenejpg&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Selenejpg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/noemi-pintaldi-538b77242/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Most used languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Selenejpg&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ### Badges
 

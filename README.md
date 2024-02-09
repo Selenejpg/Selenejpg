@@ -1,4 +1,4 @@
-Hello World! My name is Noemi Pintaldi
+Noemi Pintaldi
 ===============================
 
 Software Engineer - Analyst

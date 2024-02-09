@@ -26,6 +26,9 @@ Hello World! I'm Noemi Pintaldi, a Software Engineer. Ever since i was a little 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="36" height="36" alt="Python" /></a>
 </p>
 
+### Most used languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Selenejpg&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ### Socials
 
@@ -38,7 +41,3 @@ Hello World! I'm Noemi Pintaldi, a Software Engineer. Ever since i was a little 
 <a href="http://www.github.com/Selenejpg"><img src="https://github-readme-stats.vercel.app/api?username=Selenejpg&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Selenejpg's GitHub stats" /></a>
 
 <a href="http://www.github.com/Selenejpg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Selenejpg&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Selenejpg&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-

@@ -24,6 +24,8 @@ Hello World! I'm Noemi Pintaldi, a Software Engineer. Ever since i was a little 
 <a href="https://learn.microsoft.com/it-it/dotnet/" target="_blank" rel="noreferrer"><img src="https://learn.microsoft.com/it-it/media/logos/logo_net.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"><img src="https://cdn-images-1.medium.com/max/637/1*oPEDLkxFxRbrzSBvDSt72g.png" width="50" height="36" alt="ASP.NET" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="36" height="36" alt="Python" /></a>
+<a href="https://www.java.com/it/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/java.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.clipartmax.com/png/middle/354-3543373_spring-framework-logo-svg-png-download-java-spring.png" width="36" height="36" alt="Spring Boot" /></a>
 </p>
 
 ### Socials
